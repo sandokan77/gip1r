@@ -1,1 +1,2 @@
-this line added after file added to index
+this line added after file added to indey
+this is a new line 1
